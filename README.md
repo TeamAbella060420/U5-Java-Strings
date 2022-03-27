@@ -1,3 +1,3 @@
 # U5-Java-Strings
  Learned the different ways you can create and work with strings.
-JavaScript provides additional functionality to use with strings via "properties" and "methods." Learned how to use the '.length' property, as well as the '.toUpperCase()' and '.toLowerCase()' methods.
+JavaScript provides additional functionality to use with strings via "properties" and "methods." Learned how to use the '.length' property, as well as the '.toUpperCase()' and '.toLowerCase()' methods. JavaScript provides a more intuitive way to work with strings with a feature called "template literals." Template literals not only make your code more usable and readable, but they also enhance how you work with strings.
